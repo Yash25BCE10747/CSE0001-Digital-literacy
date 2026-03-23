@@ -18,7 +18,7 @@ It focuses on developing essential digital literacy skills such as online presen
 
 ## 🖼️ Task 1 – Digital Literacy Infographic
 
-- 📂 Infographic File: [View Here](Digital Literacy/task-1-presentation/Digital-literacy-Infographic.png)
+- 📂 Infographic File: [View Here](![Digital Literacy Infographic](Digital Literacy/task-1-presentation/Digital-literacy-Infographic.png))
 
 This infographic explains digital literacy concepts and highlights tools, safety practices, and communication skills.
 
