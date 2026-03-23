@@ -27,7 +27,7 @@ This infographic explains digital literacy concepts and highlights tools, safety
 ## 🌐 Task 2 – Digital Portfolio
 
 - 💻 GitHub Profile: https://github.com/Yash25BCE10747  
-- 🔗 LinkedIn Profile: https://www.linkedin.com/in/yash-bhardwaj-3064133b9?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+- 🔗 LinkedIn Profile: www.linkedin.com/in/yash-bhardwaj-3064133b9
 - 📊 Kaggle Profile: https://www.kaggle.com/yash25bce10747  
 
 These platforms help in building a professional online presence.
